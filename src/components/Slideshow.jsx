@@ -35,7 +35,6 @@ const photographers = {
   christineBergen: { title: "Christine Bergen" },
   meaghanHarvey: {
     title: "Meaghan Harvey",
-    link: "https://meaghanharveyphotography.com/nanaimo-wedding-photographer/",
   },
 };
 

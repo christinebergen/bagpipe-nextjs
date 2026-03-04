@@ -41,21 +41,25 @@ const About = () => {
                 </div>
               </div>
               <p>
-                With 30 years of experience, Aaron is an invaluable resource in
-                the Vancouver Island bagpiping scene. He has recently competed
-                provincially as a solo bagpiper at the grade 2 level and has
-                been the bagpiper for the Celtic Punk band{" "}
+                With over 30 years of experience, Aaron is an invaluable
+                resource in the Vancouver Island bagpiping scene. He has
+                recently competed provincially as a solo bagpiper at the grade 2
+                level and has been the bagpiper for the Celtic Punk band{" "}
                 <a
                   href="https://www.thegrinningbarretts.com/"
                   className="text-blue-700 dark:text-accentColor underline hover:font-bold"
                 >
                   The Grinning Barretts
                 </a>{" "}
-                for almost 9 years. If you're looking for a versatile bagpiper,
-                Aaron is your guy! His passion for bagpiping has also led him to
-                play the Irish whistle, where he has become a sought-after
-                performer. Together with his wife, he hosts a weekly Traditional
-                Irish Music Session in their hometown of Nanaimo, BC.
+                for almost 9 years. After the 2025 competition season with CLASP
+                (Competition League For Amateur Solo Pipers) based out of
+                Scotland, he was promoted to compete in Grade 1 (a pretty
+                amazing achievement!!) for the 2026 competition season. If
+                you're looking for a versatile bagpiper, Aaron is your guy! His
+                passion for bagpiping has also led him to play the Irish
+                whistle, where he has become a sought-after performer. Together
+                with his wife, he hosts a weekly Traditional Irish Music Session
+                in their hometown of Nanaimo, BC.
               </p>
             </Fade>
             <br />

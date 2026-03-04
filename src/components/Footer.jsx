@@ -30,7 +30,7 @@ const Footer = () => {
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0 md:space-x-4">
         <div id="footer" className="text-center md:text-left lg:pl-10">
           <p className="text-gray-800 text-2xl dark:text-white">
-            &copy; 2025 Celtic Coast Music
+            &copy; 2026 Celtic Coast Music
           </p>
         </div>
         <div className="flex flex-wrap md:flex-row justify-center items-center text-2xl flex-row gap-4 lg:pr-10">
