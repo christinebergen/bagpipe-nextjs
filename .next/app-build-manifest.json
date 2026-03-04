@@ -11,25 +11,15 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/about/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about/page.js"
-    ],
     "/lessons/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/lessons/page.js"
     ],
-    "/contact/page": [
+    "/about/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/contact/page.js"
-    ],
-    "/hire/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/hire/page.js"
+      "static/chunks/app/about/page.js"
     ]
   }
 }

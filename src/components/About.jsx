@@ -27,17 +27,9 @@ const About = () => {
                   alt="Aaron dressed in a formal bagpiping outfit holding the great highland bagpipes"
                 />
                 <div className="text-center text-lg text-gray-800 dark:text-secondaryText mt-2">
-                  <p>
-                    Photo by:{" "}
-                    <a
-                      href="https://meaghanharveyphotography.com/nanaimo-wedding-photographer/"
-                      className="text-blue-700 dark:text-accentColor underline hover:font-bold"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Meaghan Harvey Photography
-                    </a>
-                  </p>
+                  <p className="text-center text-gray-800 dark:text-accentColor text-lg font-bold">
+                    Photo By: Meaghan Harvey Photography
+                  </p>{" "}
                 </div>
               </div>
               <p>
@@ -51,7 +43,7 @@ const About = () => {
                 >
                   The Grinning Barretts
                 </a>{" "}
-                for almost 9 years. After the 2025 competition season with CLASP
+                for 10 years. After the 2025 competition season with CLASP
                 (Competition League For Amateur Solo Pipers) based out of
                 Scotland, he was promoted to compete in Grade 1 (a pretty
                 amazing achievement!!) for the 2026 competition season. If
