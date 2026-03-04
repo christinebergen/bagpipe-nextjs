@@ -43,15 +43,15 @@ const About = () => {
                 >
                   The Grinning Barretts
                 </a>{" "}
-                for 10 years. After the 2025 competition season with CLASP
-                (Competition League For Amateur Solo Pipers) based out of
-                Scotland, he was promoted to compete in Grade 1 (a pretty
-                amazing achievement!!) for the 2026 competition season. If
-                you're looking for a versatile bagpiper, Aaron is your guy! His
-                passion for bagpiping has also led him to play the Irish
-                whistle, where he has become a sought-after performer. Together
-                with his wife, he hosts a weekly Traditional Irish Music Session
-                in their hometown of Nanaimo, BC.
+                for 10 years. Because Aaron placed so well in the 2025
+                competition season with CLASP (Competition League For Amateur
+                Solo Pipers) based out of Scotland, he was promoted to compete
+                in Grade 1 for the 2026 competition season. If you're looking
+                for a versatile bagpiper, Aaron is your guy! His passion for
+                bagpiping has also led him to play the Irish whistle, where he
+                has become a sought-after performer. Together with his wife, he
+                hosts a weekly Traditional Irish Music Session in their hometown
+                of Nanaimo, BC.
               </p>
             </Fade>
             <br />
