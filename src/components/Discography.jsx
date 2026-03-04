@@ -16,7 +16,7 @@ const Discography = () => {
       cover: bottle,
       description:
         "The Grinning Barrett's first full-length album: 7 original songs, and 4 re-imagined traditional numbers, all with the Barretts signature mashup of bagpipes, banjo, and fiddle laid over a bedrock of blistering punk. Available for purchase in 2 funky colours of vinyl.",
-      link: "https://www.thegrinningbarretts.com/product/bottle-hymns-lp-on-green-and-gold-vinyl/",
+      link: "https://www.thegrinningbarretts.com/shop/",
       listen: (
         <iframe
           className="rounded-lg block"
@@ -58,7 +58,7 @@ const Discography = () => {
       cover: riot,
       description:
         "The 2nd EP from Van Isle Celt-Punk upstarts The Grinning Barretts. Dedicated to the good people at Riot Brewing Co. in Chemainus BC. We love you guys.",
-      link: "https://www.thegrinningbarretts.com/product/the-grinning-barretts-the-riot-ep/",
+      link: "https://www.thegrinningbarretts.com/shop/",
       listen: (
         <iframe
           className="rounded-lg block"
@@ -79,7 +79,7 @@ const Discography = () => {
       cover: paddy,
       description:
         "The first EP from The Grinning Barretts! Named after the patron saint of Celtic Punk, St. Padraig. It is only fitting that it was released on St Padraig's Day 2018!",
-      link: "https://www.thegrinningbarretts.com/product/the-grinning-barretts-the-st-padraigs-ep/",
+      link: "https://www.thegrinningbarretts.com/shop/",
       listen: (
         <iframe
           className="rounded-lg block"
