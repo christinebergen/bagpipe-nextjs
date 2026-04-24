@@ -3,6 +3,7 @@
 import Image from "next/image";
 import insta from "../assets/insta.png";
 import email from "../assets/email.png";
+import facebook from "../assets/facebook.png";
 import darkemail from "../assets/emaildark.png";
 
 const Contact = () => {
@@ -59,6 +60,18 @@ const Contact = () => {
                 className="flex items-center justify-center"
               >
                 <Image src={insta} alt="Instagram Icon" className="w-12 h-12" />
+              </a>
+              <a
+                href="https://www.facebook.com/profile.php?id=61582886588690#"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center"
+              >
+                <Image
+                  src={facebook}
+                  alt="Facebook Icon"
+                  className="w-12 h-12"
+                />
               </a>
             </div>
           </div>
