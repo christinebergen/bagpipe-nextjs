@@ -60,13 +60,13 @@ const Header = () => {
           <Link className={getLinkClass("/lessons")} href="/lessons">Lessons</Link>
           <Link className={getLinkClass("/hire")} href="/hire">Hire for Events</Link>
           <Link className={getLinkClass("/contact")} href="/contact">Contact</Link>
-          <a
+          {/* <a
             href="https://booking.celticcoastmusic.ca"
             className="bg-accentColor text-white text-xl px-4 py-2 rounded hover:opacity-90 transition-opacity whitespace-nowrap"
           >
             Book a Lesson
-          </a>
-        </div>
+          </a>*/}
+        </div> 
 
         {/* Mobile hamburger */}
         <div className="md:hidden">
@@ -94,13 +94,13 @@ const Header = () => {
           <Link className={getLinkClass("/lessons")} href="/lessons" onClick={() => setIsOpen(false)}>Lessons</Link>
           <Link className={getLinkClass("/hire")} href="/hire" onClick={() => setIsOpen(false)}>Hire for Events</Link>
           <Link className={getLinkClass("/contact")} href="/contact" onClick={() => setIsOpen(false)}>Contact</Link>
-          <a
+          {/* <a
             href="https://booking.celticcoastmusic.ca"
             className="bg-accentColor text-white text-xl px-4 py-2 rounded hover:opacity-90 transition-opacity"
             onClick={() => setIsOpen(false)}
           >
             Book a Lesson
-          </a>
+          </a> */}
         </div>
       </div>
     </nav>
