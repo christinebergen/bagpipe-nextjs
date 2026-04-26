@@ -39,10 +39,10 @@ const Contact = () => {
                 className="w-12 h-12 md:mr-8 hidden dark:block"
               />
               <a
-                href="mailto:aaronbergen@telus.net"
+                href="mailto:info@celticcoastmusic.ca"
                 className="text-blue-700 text-2xl dark:text-accentColor underline hover:font-bold"
               >
-                aaronbergen@telus.net
+                info@celticcoastmusic.ca
               </a>
             </div>
 
