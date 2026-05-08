@@ -47,7 +47,7 @@ const Lessons = () => {
                 <strong>Basic Techniques:</strong> Mastering the essential
                 finger movements and blowing techniques.
               </li>
-              <li>
+              <li className="mb-2">
                 <strong>Simple Tunes:</strong> Playing your first few tunes to
                 build confidence and enjoyment.
               </li>
