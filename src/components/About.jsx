@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { Fade } from "react-awesome-reveal";
 import image1 from "../assets/piper18mh.jpg";
+import image2 from "../assets/jlpiob.jpg";
 import Discography from "./Discography";
 
 const About = () => {
@@ -63,10 +64,31 @@ const About = () => {
                 Bagpiping category. In addition to this, he won the Aggregate
                 award for Grade 2 Solo Piping at the BC Pipers' Association
                 Annual Gathering, as well as Aggregate at both the Kamloops BC
-                and Campbell River BC Highland Games. Reconnecting with the
-                competition scene has reignited his enthusiasm, and he looks
-                forward to continuing next year.
+                and Campbell River BC Highland Games.{" "}
               </p>
+              <p className="mt-10">
+                Aaron's hard work has already paid off in the 2026 competition
+                circuit. Aaron was invited to compete at the 2026 BC Pipers'
+                Jack Lee Amateur Invitation Piobaireachd Competition in February
+                where he placed 2nd out of 12 competitors in the Piobaireachd
+                group. This competition hosted the top competitors in Grades 1 &
+                2 from the BC Piper's Association 2025 Grand aggregate
+                standings.
+              </p>
+              <div className="flex flex-col items-center justify-center ">
+                <div className="w-full md:w-1/2 mb-4 mt-10">
+                  <Image
+                    src={image2}
+                    className="rounded-lg border-2 border-linkBackground md:ml-4"
+                    alt="Aaron dressed in a formal bagpiping outfit holding a book of bagpipe tunes"
+                  />
+                  <div className="text-center text-lg text-gray-800 dark:text-secondaryText mt-2">
+                    <p className="text-center text-gray-800 dark:text-accentColor text-lg font-bold">
+                      Photo By: Christine Bergen
+                    </p>{" "}
+                  </div>
+                </div>
+              </div>
             </Fade>
             <br />
             <Fade cascade damping={0.1} triggerOnce>

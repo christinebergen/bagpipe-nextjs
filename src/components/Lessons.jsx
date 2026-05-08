@@ -19,6 +19,7 @@ const Lessons = () => {
       <div className="flex justify-center items-center">
         <hr className="w-3/4 border-2 mt-4 mb-4 border-gray-800 dark:border-borderColor mt-12 mb-12"></hr>
       </div>
+
       <div className="flex flex-col justify-center items-center">
         <div className="w-3/4 md:w-2/3 lg:w-1/2 text-xl text-gray-800 dark:text-secondaryText">
           <Fade cascade damping={0.1} triggerOnce>
@@ -49,6 +50,12 @@ const Lessons = () => {
               <li>
                 <strong>Simple Tunes:</strong> Playing your first few tunes to
                 build confidence and enjoyment.
+              </li>
+              <li>
+                <strong>Accessibility:</strong> Aaron wants to keep bagpipe
+                lessons as accessible as possible. He knows the financial
+                investment that it takes to get into bagpiping, and is offering
+                beginner lessons starting at $30/hour.
               </li>
             </ul>
             <div className="flex justify-center items-center">
@@ -181,24 +188,25 @@ const Lessons = () => {
               </li>
               <li className="mb-2">
                 <strong>Flexible Scheduling:</strong> Convenient lesson times to
-                fit your busy schedule.
+                fit your busy schedule with our online booking platform.
               </li>
               <li className="mb-2">
                 <strong>Supportive Environment:</strong> A positive and
                 encouraging atmosphere to foster your growth as a musician.
               </li>
             </ul>
-            <p className="text-center text-2xl font-bold pt-8">
+            <p className="text-center text-2xl font-bold pt-8 pb-10">
               Ready to start your bagpipe journey or take your skills to new
               heights?{" "}
-              <Link
-                href="/contact"
-                className="text-blue-700 dark:text-accentColor underline hover:font-bold hover:italic"
-              >
-                Contact
-              </Link>{" "}
-              Aaron today to schedule your first lesson!
             </p>
+            <br></br>
+            <a
+              href="https://booking.celticcoastmusic.ca"
+              className="flex items-center justify-center text-center bg-accentColor text-white text-xl px-8 py-8 rounded font-bold hover:opacity-80 transition-opacity"
+            >
+              Click Here to schedule your first lesson!
+            </a>
+            <br></br>
           </Fade>
         </div>
         <Fade cascade damping={0.1} triggerOnce>
