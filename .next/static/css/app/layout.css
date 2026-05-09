@@ -556,14 +556,8 @@ video {
 .float-right{
   float: right;
 }
-.float-left{
-  float: left;
-}
 .m-2{
   margin: 0.5rem;
-}
-.m-10{
-  margin: 2.5rem;
 }
 .mx-auto{
   margin-left: auto;
@@ -682,9 +676,6 @@ video {
 }
 .w-full{
   width: 100%;
-}
-.w-1\/2{
-  width: 50%;
 }
 .max-w-full{
   max-width: 100%;
@@ -822,6 +813,9 @@ video {
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+.pb-10{
+  padding-bottom: 2.5rem;
+}
 .pb-20{
   padding-bottom: 5rem;
 }
@@ -836,9 +830,6 @@ video {
 }
 .pt-8{
   padding-top: 2rem;
-}
-.pb-10{
-  padding-bottom: 2.5rem;
 }
 .text-center{
   text-align: center;
@@ -960,9 +951,6 @@ nav a {
 .hover\:font-bold:hover{
   font-weight: 700;
 }
-.hover\:italic:hover{
-  font-style: italic;
-}
 .hover\:text-gray-600:hover{
   --tw-text-opacity: 1;
   color: rgb(75 85 99 / var(--tw-text-opacity, 1));
@@ -974,11 +962,11 @@ nav a {
 .hover\:underline:hover{
   text-decoration-line: underline;
 }
-.hover\:opacity-90:hover{
-  opacity: 0.9;
-}
 .hover\:opacity-80:hover{
   opacity: 0.8;
+}
+.hover\:opacity-90:hover{
+  opacity: 0.9;
 }
 .hover\:shadow-xl:hover{
   --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
@@ -1124,16 +1112,6 @@ nav a {
 
   .md\:p-20{
     padding: 5rem;
-  }
-
-  .md\:px-8{
-    padding-left: 2rem;
-    padding-right: 2rem;
-  }
-
-  .md\:py-8{
-    padding-top: 2rem;
-    padding-bottom: 2rem;
   }
 
   .md\:text-left{
